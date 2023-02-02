@@ -1,0 +1,16 @@
+{
+  "name": "@lucifer1004/absinthe-socket",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "author": "Gabriel Wu <wuzihua@pku.edu.cn>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "tsup index.ts --dts --format esm,cjs,iife"
+  },
+  "dependencies": {
+    "@types/phoenix": "^1.5.4",
+    "phoenix": "1.7.0-rc.2"
+  }
+}

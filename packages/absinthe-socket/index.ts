@@ -1,0 +1,1 @@
+export { AbsintheSocket } from "./types";

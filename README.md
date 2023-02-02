@@ -2,10 +2,5 @@
 
 ## Packages
 
-- [@absinthe/socket](packages/socket)
-- [@absinthe/socket-apollo-link](packages/socket-apollo-link)
-- [@absinthe/socket-relay](packages/socket-relay)
-
-## License
-
-[MIT](LICENSE.txt) :copyright: Jumpn Limited.
+- [@lucifer1004/absinthe-socket](packages/absinthe-socket)
+- [@lucifer1004/absinthe-socket-apollo-link](packages/absinthe-socket-apollo-link)

@@ -1,0 +1,12 @@
+{
+  "name": "@lucifer1004/absinthe-socket-apollo-link",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "author": "Gabriel Wu <wuzihua@pku.edu.cn>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "tsup index.ts --dts --format esm,cjs,iife"
+  }
+}
